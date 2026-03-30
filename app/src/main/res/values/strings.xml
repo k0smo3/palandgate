@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PalAndGate</string>
+    <string name="btn_open_gate">Open\nGate</string>
+    <string name="status_success">Done ✓</string>
+    <string name="title_settings">Settings</string>
+    <string name="section_palgate">PalGate</string>
+    <string name="hint_session_token">Session token (hex, 32 chars)</string>
+    <string name="hint_phone_number">Phone number (e.g. 972501234567)</string>
+    <string name="hint_device_id">Gate Device ID</string>
+    <string name="label_token_type">Token type</string>
+    <string-array name="token_types">
+        <item>0 — SMS</item>
+        <item>1 — Primary (device linking)</item>
+        <item>2 — Secondary</item>
+    </string-array>
+    <string name="btn_save">Save</string>
+    <string name="menu_about">About</string>
+</resources>

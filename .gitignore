@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Kotlin ###
+.kotlin
+
+### Project ###
+cli/gate_config.*json
+local.properties
+build/
+.gradle/

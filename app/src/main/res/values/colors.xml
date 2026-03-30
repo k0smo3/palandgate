@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indigo_primary">#FF283593</color>
+    <color name="indigo_dark">#FF1A237E</color>
+    <color name="indigo_accent">#FF5C6BC0</color>
+    <color name="ic_launcher_background">#FF1B3A5C</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="background_dark">#FF181818</color>
+    <color name="text_secondary">#FFB0B0B0</color>
+    <color name="success_green">#FF4CAF50</color>
+    <color name="garage_closed_green">#FF4CAF50</color>
+    <color name="garage_open_orange">#FFFF9800</color>
+    <color name="error_red">#FFCF6679</color>
+</resources>

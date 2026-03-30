@@ -1,0 +1,3 @@
+-keep class me.csystems.gategarage.core.palgate.** { *; }
+-keepattributes Signature
+-keepattributes Exceptions
